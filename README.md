@@ -11,17 +11,19 @@
 
 - - -
 
-# BE Computer sem 1 assignments <!-- omit in toc -->
+# BE Computer sem 1 assignments
 
 - - -
 
-## Table of contents <!-- omit in toc -->
+## Table of contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Full Documentation](#full-documentation)
-- [License](#license)
+- [BE Computer sem 1 assignments](#be-computer-sem-1-assignments)
+    - [Table of contents](#table-of-contents)
+    - [Introduction](#introduction)
+    - [Features](#features)
+    - [Getting Started](#getting-started)
+    - [Full Documentation](#full-documentation)
+    - [License](#license)
 
 ## Introduction
 
@@ -29,9 +31,50 @@
 
 ## Features
 
+- Group A
+- Group B
+- Group C
+
 **[Back to top](#table-of-contents)**
 
 ## Getting Started
+
+- Directory structure
+
+    ``` directory
+
+    be-comp-sem1
+    |
+    +---group-A
+    |   |
+    |   +---<assignment no>-<topic name>
+    |       |
+    |       +---src
+    |       |   +---<source files>
+    |       +---obj
+    |       |   +---{auto generated object files}
+    |       +---bin
+    |       |   +---{auto generated binary files}
+    |       +---inc
+    |       |   +---<custom header files>
+    |       +---lib
+    |       |   +---{place additional library files}
+    |       +---Makefile
+    |    
+    +---group-B
+    |   |
+    |   +---<assignment no>-<topic name>
+    |    
+    ...
+
+    ```
+
+- Instructions
+
+    1. Create at least `src` dir and place your source files in it.
+    2. Copy and rename `Makefile-cpp` from the root to the src dir.
+    3. To auto generate directories run `make directories` in the `src` dir which contains the `Makefile`.
+
 
 **[Back to top](#table-of-contents)**
 
