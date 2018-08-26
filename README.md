@@ -11,7 +11,7 @@
 
 - - -
 
-# Project Name <!-- omit in toc -->
+# BE Computer sem 1 assignments <!-- omit in toc -->
 
 - - -
 
