@@ -1,10 +1,10 @@
 ## -----------------------------------------------------------------------------
 ## Created: Sun 26 Aug 2018 23:09:53 IST
-## Last-Updated: Sun 26 Aug 2018 23:11:45 IST
+## Last-Updated: Sun 26 Aug 2018 23:45:55 IST
 ##
 ## Makefile is part of be-comp-sem1
 ## URL: https://github.com/justinekizhak/be-comp-sem1
-## Description: Makefile
+## Description: Makefile for cpp files
 ##
 ## Copyright (c) 2018, Justine Kizhakkinedath
 ## All rights reserved
@@ -14,7 +14,7 @@
 ## -----------------------------------------------------------------------------
 
 # project name (generate executable with this name)
-TARGET   = 1-vector
+TARGET   = assignment_name
 
 CC       = clang++
 # compiling flags here
